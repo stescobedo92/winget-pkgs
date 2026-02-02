@@ -152,10 +152,10 @@ FileExtensions:
 - yml
 - zsh
 ProductCode: '{CC6B787D-37A0-49E8-AE24-8559A032BE0C}_is1'
-ReleaseDate: 2026-01-09
+ReleaseDate: 2026-01-29
 Installers:
 - Architecture: x64
-  InstallerUrl: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.2.4.17251525-7daf1e03e2-91899b5f.exe
-  InstallerSha256: 491DCDF4031E9CC416BC91DAEF3860CD419158A29A028DF89F5C142CF3726B4D
+  InstallerUrl: https://codebuddy-1328495429.cos.accelerate.myqcloud.com/aiide/win32-x64-user/CodeBuddy-win32-x64-user-4.4.1.18986636-5345a68264-c89e16d6.exe
+  InstallerSha256: 055E774421552B26D721CD1D502F1E1045E4EA14B2C2F2EB8891B016DF45796A
 ManifestType: installer
 ManifestVersion: 1.12.0
