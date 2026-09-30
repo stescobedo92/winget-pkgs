@@ -7,6 +7,9 @@ NestedInstallerType: portable
 NestedInstallerFiles:
   - RelativeFilePath: azdash.exe
     PortableCommandAlias: azdash
+Dependencies:
+  PackageDependencies:
+    - PackageIdentifier: Microsoft.VCRedist.2015+.x64
 Installers:
   - Architecture: x64
     InstallerUrl: https://github.com/stescobedo92/az-dashboard/releases/download/v0.3.0/azdash-windows-x64.zip
